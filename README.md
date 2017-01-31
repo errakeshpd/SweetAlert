@@ -1,5 +1,5 @@
 # SweetAlert
-
+<img src="https://badge.fury.io/rb/sweet_alerts.svg" alt="Gem Version" />
 ## A BEAUTIFUL REPLACEMENT FOR JAVASCRIPT'S "ALERT"
 
 ![A success modal](https://raw.github.com/t4t5/sweetalert/master/sweetalert.gif)
