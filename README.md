@@ -26,15 +26,15 @@ Or install it yourself as:
 
 add below line to application.js
 
-    ```ruby
-      = require sweetalert.min
-    ```
+```ruby
+  //= require sweetalert.min
+```
 
 add below line to application.css
 
-    ```ruby
-      *= require sweetalert
-    ```
+```ruby
+  *= require sweetalert
+```
 
 ## Usage
 
